@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple, offline PDF compressor built in Rust that uses Ghostscript to compress PDF files. The idea behind this tool is to provide a secure and cost-effective way to compress PDFs without relying on potentially untrustworthy online services or expensive tools like Adobe Acrobat.
+This simple, offline PDF compressor built in Rust uses Ghostscript to compress PDF files. The idea behind this tool is to provide a secure and free way to compress PDFs without relying on potentially untrustworthy online services or expensive tools like Adobe Acrobat.
 
 ### Key Features
 - Compress PDF files directly on your local machine.
